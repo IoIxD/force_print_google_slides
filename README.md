@@ -1,6 +1,6 @@
 ## force_print_google_slides
 
-# This is an over-engineered solution because I didn't think Google, the same ones who made the slowest document viewer I've ever used, were capable of making a simple program. But alas, Google Slides actually has a very simple structure and [there is a much better, faster solution to this](https://stackoverflow.com/questions/31662455/how-to-download-google-slides-as-images)
+# This is an over-engineered solution because I didn't think Google, the same ones who made the slowest document viewer I've ever used, were capable of making a simple program. But alas, Google Slides actually has a very simple structure and [there is a much better, faster solution to this](https://stackoverflow.com/a/67055254)
 
 ## Original README
 
