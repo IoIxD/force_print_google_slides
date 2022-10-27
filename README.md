@@ -4,6 +4,8 @@
 
 People giving out Google Slides are allowed to place it in this weird state where you can only view it as a presentation, and you are not allowed to print it or do anything other then view it in big picture mode. What people who do this fail to recognize is that you can *just screenshot the slides and then print them manually, making this a worthless feature*.
 
+## Original README
+
 This program makes it even more worthless by doing this automatically for you; it screenshots all the unique slides in a Google Slides and puts them into a pdf.
 
 # Usage
